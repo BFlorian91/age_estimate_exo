@@ -3,7 +3,7 @@
 ![Capture d'écran de l'application](public/screenshot.png)
 
 ## Introduction
-Bienvenue dans l'application "Estimate Age" ! Cette application web simple permet aux utilisateurs de saisir un prénom et de recevoir un âge estimé pour ce prénom, en utilisant l'API `agify.io`. C'est une manière amusante de voir comment votre prénom pourrait refléter votre âge !
+Bienvenue dans l'application "Estimate Age" ! Cette application web simple permet aux utilisateurs de saisir un prénom et de recevoir un âge estimé pour ce prénom, en utilisant l'API `agify.io`. [https://agify.io/]() C'est une manière amusante de voir comment votre prénom pourrait refléter votre âge !
 
 ## Objectifs Pédagogiques
 - **Intégration d'API** : Apprendre à effectuer des requêtes API vers un service externe pour récupérer des données basées sur une saisie utilisateur.
